@@ -193,11 +193,3 @@ body.lb-disable-scrolling {
   cursor: pointer;
   opacity: 1;
 }
-
-
-.lb-caption,
-.lb-data .lb-caption,
-.lb-data .lb-number {
-    font-size: 35px; 
-    line-height: 1.2;
-}
