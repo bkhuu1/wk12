@@ -166,5 +166,25 @@ button:hover {
     transform: scale(1);
   }
   
-  
+.lightbox-caption {
+    color: #ffffff;  /* Bright white for better contrast */
+    font-weight: 600;
+}
 
+.lightbox-caption-text {
+    color: #ffffff;
+}
+
+/* Navigation images styling */
+.nav-image {
+    filter: brightness(1.1);
+}
+
+/* Lightbox caption styling - CUSTOM EDITS */
+.lb-dataContainer .lb-data .lb-caption,
+.lb-dataContainer .lb-data .lb-number {
+    font-size: 35px; 
+    line-height: 1.2;
+    color: #FF0000;
+    font-weight: bold;
+}
